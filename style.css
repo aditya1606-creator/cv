@@ -1,0 +1,27 @@
+body {
+    background-color: aqua;
+    font-family: cursive;
+    font-weight: 200;
+    padding: 0% 5% 2% 5%;
+    border: 1px dotted;
+}
+
+.profilePic {
+
+    border: 8px solid;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    border-radius: 100%;
+    border-color: gold;
+
+}
+
+.intro {
+    color: brown;
+    font-size: 20px;
+}
+
+hr {
+    background-color: tomato;
+    height: 10px;
+}
